@@ -1,0 +1,13 @@
+flask-cors
+numpy
+newspaper3k
+sklearn
+pandas
+flask
+nltk==3.6.5
+brown==0.0.1
+punkt
+maxent_treebank_pos_tagger
+movie_reviews
+wordnet
+stopwords
