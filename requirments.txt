@@ -1,6 +1,6 @@
 google
 streamlit
-google.generativeai
+google-generativeai
 flask-cors
 numpy
 newspaper3k
