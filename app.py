@@ -1,11 +1,7 @@
 # Basic Fake News Detection App using Gemini API
 import streamlit as st 
 import os
-from dotenv import load_dotenv
 import google.generativeai as genai
-
-# Load the API Key
-load_dotenv()
 
 # Configuring the GEN-AI App
 genai.configure(api_key = "AIzaSyDzyOOtoGJZz5ypurgIfHGqp_UIGHV_-3g")
